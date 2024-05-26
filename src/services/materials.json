@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "codigo": 10001,
+        "descripcion": "Cemento",
+        "unidad": "kg",
+        "precio": 1000
+      },
+    {
+        "id": 2,
+        "codigo": 10002,
+        "descripcion": "Estuco Blanco",
+        "unidad": "m2",
+        "precio": 2000
+      },
+    {
+        "id": 3,
+        "codigo": 10003,
+        "descripcion": "Arena",
+        "unidad": "und",
+        "precio": 3000
+      }
+]
